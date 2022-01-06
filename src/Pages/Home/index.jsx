@@ -132,13 +132,7 @@ const Home = () => {
                     <div className="details">
                         <div className="greeting">Hello</div>
                         <p className="bio">
-                        Yo soy ocu balango
-                        </p>
-                        <p className="bio">
-                        Yo soy ocu balango
-                        </p>
-                        <p className="bio">
-                        Yo soy ocu balango
+                        I’m a software engineer with a background in public administration. I merge experience in administration in the public and non-profit atmospheres and software engineering to facilitate the use of technologies in providing services that advance humanitarian causes. My goal is to make user experience and interface more intuitive. By combining these two skills, I will make websites or apps easier for users.
                         </p>
 
                     </div>
